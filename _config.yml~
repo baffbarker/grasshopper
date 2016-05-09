@@ -28,6 +28,9 @@ defaults:
       path: ""
       type: "posts"
     values:
+      author: Jeremy Stocks
+      layout: "post"
+      category: general
       comments: true
 
 

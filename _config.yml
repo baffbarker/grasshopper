@@ -9,7 +9,7 @@
 title: Grasshopper
 email: jeremyll33@yahoo.com
 description: A blog mixing lawn care, libertarianism, life in Germany, nutrition and Taoism
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: '/grasshopper' # the subpath of your site
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 paginate: 3
 
