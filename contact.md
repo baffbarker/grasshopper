@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: page
 title:  Contact
 permalink: /contact/
-date:   2016-05-06 21:06:58 +0200
 categories: jekyll update
 ---
-I live in Bavaria
+I live in upper Bavaria. I'm contactable on the email address below.
+
+Brilliant would be comments on the Disqus thingy below each post.
+
+Not really a huge fan of Facebook. Found Twitter a bit too "short"!!
