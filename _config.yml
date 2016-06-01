@@ -8,9 +8,9 @@
 # Site settings
 title: Grasshopper
 email: jeremyll33@yahoo.com
-description: A blog mixing lawn care, libertarianism, life in Germany, nutrition and Taoism
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+description: A blog mixing gardening, food, nutrition, economics, life in Germany, and Chinese medicine
+baseurl: '/grasshopper' # the subpath of your site
+url: "http://jeremystocks.github.io/" # the base hostname & protocol for your site
 paginate: 3
 
 # Gems
