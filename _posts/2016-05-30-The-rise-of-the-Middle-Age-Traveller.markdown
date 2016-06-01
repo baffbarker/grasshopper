@@ -24,7 +24,7 @@ France
 
 **Tarn Camping Les Prades**
 
-http://www.campinglesprades.com/
+<http://www.campinglesprades.com/>
 
 
 Spain
@@ -32,15 +32,15 @@ Spain
 
 **Playa Montroig**
 
-http://www.playamontroig.com/en
+<http://www.playamontroig.com/en>
 
 **Los Madrillos**
 
-http://www.campinglosmadriles.com/es/index.php?
+<http://www.campinglosmadriles.com/es/index.php?>
 
 **Camping Javea**
 
-http://www.campingjavea.es/
+<http://www.campingjavea.es/>
 
 I'll be blogging more on this subject but this is just a start....
 
