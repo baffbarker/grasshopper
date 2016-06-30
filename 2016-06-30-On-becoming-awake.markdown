@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "On becoming awake"
+date:   2016-06-30 11:59:00 +0200
+categories: health
+---
+
+##On becoming awake
+
+Right then, 
+
+For those who think I've gone a bit nuts, nothing could be further from the truth. 
+
+Since around 2012 I became aware upon my parents' death, that things were not quite what we were always taught they were. Having ironically felt freer living in Saudi Arabia to my homeland, I started to question what really is going on. Living in Germany iI felt very out of sorts, as if the character of Patrick McGoohan in "The Prisoner" (one of the most propetic TV series ever made) dwelling in the ideal Bavarian "village". The mentaily suffocated me, until I found websites which confirmed my thinking (no not anything nefarious, more positive than that!) . For the reason i felt freer in Saudi weas that because it was sio suffocatingly unfree, we expats were left alone to our own devices in private. This meant that you either sat aroiund bored or made your own stuff happen, so the lifestklye there was "homebrew" not just of course alcohol, but absolutely everything had to be done on your own, there was no official anything to tell you how to think. Thus no "official" news outlet. Can anyone in Britain figure out which media outlets I am thinking of? Yes the very same you have been watching for years.
+
+Why am I right? Well, for decades "they" the elite have been telling us all about nutrition, but they were absolutely wrong! How much low-fat crap have we been buying in supermarkets when nothing like this helped? it was only when I rethought this, thanks to the now infamous Robert Lustig "Sugar the Bitter Truth" video, which was the beginnning of my health reboot.
+
+For following that film, I changed my diet. In the beginning my poor German wife thought I was possessed by insanity - coming down every morning to the smell of bacon and egg. I started to research the Paleo diet and cooked up of their recipes. Did anyof this change anything? YES! 
+
+I'm not a "dieter". I never set out to lose weight, just to feel better. Within days of my new regime, I dropped from 85.5kg to say 83.5. Then the weight sank further. "Not surely, below 80". But no down it went! At its lowest it dropped to 74kg within months of the new system. Now it has settled around 77 and I could lose a few kg more but I am happy with it. I had to adapt how we adults eat with the kids and that was rough. Compromise came in but overall we are healthier now than ever. 
+
+I asked for Jamie Oliver's newest cookbook this Christmas just gone and imho that is the most important cookbook ever written. His advice therein, if followed will reduce obesity and diabetes, the blood sugar (yeah the clue is in the question....sugar!)
+
+Once I realised it was food (80%) of weight loss is connected to food not exercise I gave up my gym membership and followed Tai Chi Chi Kung. The human body is its own best healer if given the chance. I shall post here my daily routine which I love doing. I used to get all sorts of aches and pains -now they are gone.
+
+So here are my three pieces of advice based on my own reboot.
+
+1. **Cut out sugar** - not only the white stuff (glucose) but high fructose corn syrup, beer (maltose), reduce wheat, rice and even potatoes. That's the key to reducing your leptin and ghrelin hormones. what are they? check out Lustig's video.
+
+2. **Movement** - a daily Tai Chi routine keeps all the chi energy flowing round the body and healing any "broken" bits. I personally recommend the Eight Pieces of Brocade which I can easily see myself practising daily till I am 70 or older.
+
+3. **Set up a microbusiness** If you are working for any kind of company you are dependent on them and are thus a slave if the coming downturn hits your firm. If you have a side operation you can hopefully survive. I began this suimmer cutting lawns for the older ladies and love it. I found an amazing Youtube channel "Geek to Freak" by a guy in illinois who convinced me to have a go, and it is slowly working out well. I also recommend a book by the legend Tim Ferris  - "The Four Hour Work Week" for details.
