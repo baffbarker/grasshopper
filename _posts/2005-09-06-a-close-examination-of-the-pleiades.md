@@ -1,0 +1,9 @@
+---
+layout: post
+title: A close examination of the Pleiades
+date: 2005-09-06 15:11
+author: jeremystocks
+comments: true
+categories: [starhopping]
+---
+Last night I undertook something that simply hadn't occurred to me before - to take a look at the stars of the Pleiades star cluster. It s been there for years in the sky but my mind has been so busy chasing othger things I never focusseed simply upon this beautiful feature in the sky.<br /><br />When I read in Patrick Moore's "Exploring the night sky with binoculars" that each star in the cluster has a unique Arabic nane I was tempted to take a closer look. My interest in the Arabic names of stars has been kindled by the necessity to learn them in order to set up my Meade telescope properly using the Autostar two star alignment method.<br /><br />I noted the seven main stars, drew them on a piece of paper, then attempted to judge their brightnesses as a sort of exercise in variable star estimation which I would like to indulge in one day. Here is a table I present with the ranked order as perceived my me, together with their magnitudes.<br /><br />1. Alcyone   ? not given in Moore<br />2. Electra   3.7   equal with Atlas<br />3. Atlas     3.6<br />4. Maia      3.9<br />5. Taygete   4.3<br />6. Merope    4.2<br />7. Pleione   5.1   variable star<br /><br />One thing I assert here in the hope that anyone reading it will confirm what I say: Moore states that the constellation is about one degree wide in distance. If the cluster takes up about a quarter of my binocular viewing area then logically my field of view in the binoculars is 4 degrees, is that right? An  interesting fact about the mags given is that very often stars of these mags are occulted by the moon. It gives me an idea of the brightnesses of stars for those events, having not seenn an occultation yet.
