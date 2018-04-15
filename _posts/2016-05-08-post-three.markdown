@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-06 21:06:58 +0200
-categories: jekyll update
----
-
-Post three
