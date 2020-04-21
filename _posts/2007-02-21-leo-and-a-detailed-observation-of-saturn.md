@@ -1,9 +1,0 @@
----
-layout: post
-title: Leo and a detailed observation of Saturn
-date: 2007-02-21 07:59
-author: jeremystocks
-comments: true
-categories: [starhopping]
----
-Tonight I undertook the Guided Tour. Amid the high pooints were a view of Algeina in Leo, indeed like a paire of headlights coming at you in space. In my ETX the upper star was the brighter, whilst the dimmer star was at about 5 o clock to the main star.<br /><br />M65 - BFT.<br /><br />M66 - I made a crude sketch of the object in my notebook.<br /><br />NGC 3628 and M95 - nope. Couldnt see.<br /><br />M96 - looked like a flattened Corona Borealis. Made a sketch.<br /><br />M105 - didnt see.<br /><br />M35 - üretty open cluster in Gemini, similar in style to M36,37,38 in Auriga.<br /><br />View of M44 rounded off a productive night. Afterwards some naked eye exploring was undertaken. Checking the sky maps later I had identified Alphard in Hydra and Spica in Virgo.<br /><br /><br />What follows are the notes I made following a detailed examination of Saturn, its rings and satellites. A sketch exists in my loose leaf binder of the night's observation, must scan that in.<br /><br /><ol><li>Cassini Division seen both sides.</li><li>Left side inner and outer rings same brightness.</li><li>Right side outer ring slightly darker than inner.</li><li>Belt seen on main planet body halfway down at equator.</li><li>Shadow of ring seen clearly on planet body.</li><li>First moon at 12 o'clock of planet in angle.</li><li>2nd moon at 3 o'clock of plant but further away.</li><li>3rd moon very faint, close to planet at 4 o'clock. (these moon location were latzer checked on the web)</li><li>Angle is as displayed in sketch (scan diagram in!)</li></ol><p>So with observations of Algeiba and 4 new Messiers, and a systematic observation of Saturn, it was a successful night.</p>

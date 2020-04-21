@@ -1,9 +1,0 @@
----
-layout: post
-title: Sugar at the heart of a trade Triangle of Death
-date: 2014-12-18 07:43
-author: jeremystocks
-comments: true
-categories: [food, Trapped in a Masonic World]
----
-Watching Robert Ludwig's 5 million time viewed Youtube this week:<div><br></div><div>https://www.youtube.com/watch?v=dBnniua6-oM</div><div><br></div><div>made me think about what lay behind the dominance of sugar in our diet and its history. It helps that I've been reading a lot about sailing lately too, connected to the trade winds which propelled British ships across the Atlantic to the plantations.</div><div><br></div><div>Let's think about the triangle of death we created in our British Empire:</div><div><br></div><div>1. We made weapons and shipped them to tribal elders in African states. We traded these weapons most likely for very low production cost, for slaves.</div><div>2. We transported these slaves across the Atlantic to the sugar plantations of the West Indies. It is estimated that half of the slaves didn't make it. Half of them. These slaves brought their culture with them.</div><div>3. From these sugar cane plantations, merchants grew rich in London off the back off this horrific triangle of abuse. No wonder there are rich 1% families to this day from this evil.</div><div><br></div><div>Now these slaves were in let's say at the least in immense pain most of the time and they brought their African voodoo culture with them to ease their sadness. What was this voodoo culture? It was known as the blues.</div><div><br></div><div>Some of these slaves migrated from the south of the USA to Chicago people such as Robert Johnson. From this we had the basis of modern rock music.</div><div><br></div><div>So whilst prancing to a rock band these days, you may unwittingly be evoking dark African shamanic spirits!</div>

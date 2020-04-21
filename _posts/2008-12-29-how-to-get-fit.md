@@ -1,9 +1,0 @@
----
-layout: post
-title: How to get fit?
-date: 2008-12-29 05:51
-author: jeremystocks
-comments: true
-categories: [fitness]
----
-Well I have read the blurb in The Hackers Diet and made some decisions:<br /><br />1. I shall save all my weight info online an The Hackers Diet webpage.<br />2. I will monitor my weight daily amd record it in our bathroom on paper then enter it in the computer. I've been having "issues" with my Windows box so I am after hearing via the web about the latest Ubuntu, going to run off that soon. I downloaded the latest copy but because my CD writer was in another PC havent installed it yet to burn it.<br />3. I will monitor my workouts too. Having spent time and money on our cellar and installed the cross trainer I dunno if there exists the need to do the Hacker Diet exercises as the cross trainer measures heart rate and kJ/calories burned. So I shall write down the figures down there like distance and cals on a piece of paper.<br />4. The missing link is the stuff going into the rubber bag. I need databases showing how many cals are in the guff I put in my mouth.<br /><br />Yesterday at the bakery whilst buying my <span style="font-style:italic;"><span style="font-style:italic;"></span></span> I asked the pretty girl which had low fat content. She didnt know so I've found a website in German fettrechner.de which should help in that regard. Normaly I buy "gemischte Semmel" and don't pay much attention to what I buy. I shall change that. For example I just found out that soya semmel have half the cals of rye/roggen semmel. I don't agree with John Walker's idea of eating frozen packet foods - typical American! So this ection of losing weight is going to take a bit longer to figure out. I think an Excel or Oo Calc spreadsheet will help, not that I am any good at Excel or Calc.<br /><br />Edit: just did another 25 minutes on the trainer

@@ -1,9 +1,0 @@
----
-layout: post
-title: An outline of some direct spiritual experiences
-date: 2014-12-09 17:50
-author: jeremystocks
-comments: true
-categories: [grief]
----
-<div>Am reading about spirituality a lot at the moment. I love David Icke's "Perception Deception" and although am having difficulty understanding a lot of it find it an entertaining read.</div><div><br></div><div>Here I outline a few "moments" when I've had some kind of bridge crossed into my world from the "other".</div><div><br></div><div>- the magic mushroom trip I took in Llan during my dissertation - I've blogged about this before, but it was the first time I heard "purple" music!</div><div>- the energy wave in Hemis gompa in 1992 and the sense of well being there. Supposed to be where Jesus stayed during his 40 days in the wilderness, it has a magical vibe which upwelled in my sense of well being and induced an unexplained natural euphoria inside me.</div><div>- the "in the zone" feeling from climbing Hope on the Idwal Slabs. Climbing is a very "Zen§ activity. You are focussed only on the next few feet in front. It taxes body and mind in such balance that a great day on the rock can be one of the best of your life.</div><div>- the dark experience of the church in Oradour sur Glane. The site of a massacre of 642 French resistance villagers in Limousin ,the church is where they were rounded up burnt alive and shot.</div><div>- another "in the zone" feeling skiing in Austria. Utter bliss, no sense of self whatsoever, like I was being channeled by higher deities.</div><div>- chatting to the wife of John Orangie and her voice changed into "you are going to meet the love of your life and she is German" and she was unaware she'd said it afterwards.</div><div>- hearing my mother directly calling out my name when she was on her way.</div><div>- the tricks she played the few days after she went</div><div><br></div>
